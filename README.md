@@ -1,5 +1,5 @@
 
-# Virtual Memmory Manager
+# Virtual Memory Manager
 
 A Virtual Memory Manager project is essential for enhancing system performance, resource 
 management, and providing a convenient and secure abstraction of memory for applications 
